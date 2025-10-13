@@ -1,0 +1,13 @@
+h1 { 
+color: purple;
+background-color: rgb(245, 221, 5); 
+text-align: center; 
+} 
+p { 
+font-size: 25px;
+font-style: italic;
+letter-spacing:2px;
+line-height:1;
+text-shadow:5px 1px 2px rgb(175, 247, 7);
+color: rgb(233, 102, 14); 
+} 

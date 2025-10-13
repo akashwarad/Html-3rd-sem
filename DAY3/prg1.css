@@ -1,0 +1,19 @@
+.war{
+    
+    color: hsla(215, 89%, 4%, 0.972);
+    border :width 3px;
+    border-color: brown;
+    border-style: solid;
+    margin: 15px;
+    padding-left: 15px;
+}
+.war1{
+    color: rgba(1, 5, 13, 0.972);
+    border :width 3px;
+    border-color: brown;
+    border-style: solid;
+    margin: 15px;
+    padding-left: 15px;
+} h1{
+    color: #227c8c;
+}
